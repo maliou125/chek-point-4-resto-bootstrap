@@ -1,0 +1,163 @@
+
+body {
+    background-color: yellow !important;
+}
+
+.header {
+    background-color: yellow !important;
+    position: fixed;
+    border-radius: 2% !important;
+    width: 100%;
+}
+.navbar-brand {
+   
+    margin-right: 950px !important;
+    margin-left: 10px !important;
+}
+
+
+.navbar-brand {
+    margin-left: 10PX !important;
+}
+
+.hero {
+      
+    background-image: url(hero1.png) ;
+    height: 310px;
+    border-radius: 5%;
+    display: flex !important;
+    align-items: center !important;
+    
+}
+.hero1 {
+
+    margin-top: 10px !important;
+    margin-left: 700px !important;
+    margin-bottom: 70px !important;
+}
+h3 {
+    color: aliceblue !important;
+}
+
+.btn {
+    margin-left: 20px;
+    
+}
+
+.container {
+    margin-left: 50px !important;
+    margin-right: 100px !important;
+    margin: 100px !important;
+    padding: 5px;
+    
+   
+    border-radius: 50 !important;
+} 
+
+.row {
+    border-radius: 2%;
+    background-color: black;
+    display: flex !important;
+    justify-content: center !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+}
+
+.col #im1 {
+    height: 50px !important;
+    width: 50px !important;
+    margin: 0px !important;
+    padding: 500px !important;
+}
+
+.col #im2 {
+    background-color: black !important;
+    height: 50px !important;
+    width: 50px !important;
+    margin: 0px !important;
+}
+
+.col #im3 {
+    height: 50px !important;
+    width: 50px !important;
+    margin: 1px !important;
+}
+
+.burger {
+    color: rgb(233, 216, 21) !important;
+    margin-left: 125px;
+}
+
+.price1 {
+    margin-left: 160px;
+    
+}
+
+
+
+#rbg1 {
+    background-image: url(bg1.png) ; 
+    border-radius: 2%;
+
+}
+
+.br2 {
+    border: 500px !important    ;
+    border-color: yellow !important;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.fastfood{ 
+    color: yellow !important;
+    font-size: 300%;
+    margin-left: 190px;
+    margin-top: 50px;
+}
+
+.pr1 {
+    color: aliceblue;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.aboutus {
+    margin-left: 230px;
+    margin-top: 30px;
+}
+
+.form1 {
+    background-color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 0px;
+    border-radius: 2%;
+    color: yellow;
+}
+
+.form-group {
+    margin: 50px;
+    padding: 0%;
+}
+
+.btn {
+    margin: 10px;
+    margin-left: 50px;
+}
+
+.mb-0 {
+    padding: 50px;
+    width: 100%;
+}
+
+.footer {
+    padding: 1px 1px !important;
+}
+
+.bi {
+    cursor: pointer;
+}
+
+
